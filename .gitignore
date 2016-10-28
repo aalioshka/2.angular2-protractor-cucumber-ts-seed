@@ -1,5 +1,9 @@
-node_modules/
-generated/
+.idea
+node_modules
+jspm_packages
+link-checker-results.txt
+**/*npm-debug.log.*
 *.js
-.DS_Store
-.vscode
+*.js.map
+e2e/**/*.js
+e2e/**/*.js.map
