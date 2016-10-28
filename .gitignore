@@ -7,3 +7,5 @@ link-checker-results.txt
 *.js.map
 e2e/**/*.js
 e2e/**/*.js.map
+app/**/*.js
+app/**/*.js.map
