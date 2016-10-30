@@ -1,7 +1,7 @@
-Feature: QuickStart E2E Tests
+Feature: Angular 2 Protractor Cucumber E2E Tests
 
   @M2JS
-  Scenario: QuickStart E2E Tests
+  Scenario: Simple Angular 2 Protractor Cucumber E2E Tests
     Given I open index page
     When page is loaded
     And app.component is loaded
