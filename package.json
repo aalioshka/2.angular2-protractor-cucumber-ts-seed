@@ -2,7 +2,13 @@
   "name": "angular-quickstart",
   "version": "1.0.0",
   "description": "QuickStart package.json from the documentation, supplemented with testing support",
-  "keywords": [],
+  "keywords": [
+    "Protractor",
+    "Cucumber",
+    "TypeScript",
+    "Angular 2",
+    "Seed"
+  ],
   "main": "index.js",
   "scripts": {
     "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
