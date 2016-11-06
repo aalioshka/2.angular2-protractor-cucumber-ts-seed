@@ -57,6 +57,9 @@
     "webdriver-manager": "10.2.5",
     "rimraf": "^2.5.4",
 
+    "gulp": "~3.9.1",
+    "awesome-report-generator": "https://github.com/M2JS/awesome-report-generator.git",
+
     "@types/core-js": "^0.9.34",
 
     "@types/cucumber": "0.0.32",

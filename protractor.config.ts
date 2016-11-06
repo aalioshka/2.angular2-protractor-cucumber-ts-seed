@@ -28,7 +28,7 @@ export let config = {
         compiler: "ts:ts-node/register",
         monochrome: true,
         strict: true,
-        plugin: ["pretty"],
+        format: ['pretty', 'json:e2e/output/cucumber.json'],
         require: ['e2e/step_definitions/**/*.ts', 'e2e/support/**/*.ts'],
         tags: '@M2JS'
     }

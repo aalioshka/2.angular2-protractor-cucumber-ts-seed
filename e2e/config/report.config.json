@@ -1,0 +1,8 @@
+{
+  "input": "e2e/output/cucumber.json",
+  "output": "e2e/output",
+  "format":[
+    "html",
+    "xlsx"
+  ]
+}

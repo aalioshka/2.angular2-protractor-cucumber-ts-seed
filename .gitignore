@@ -9,3 +9,4 @@ e2e/**/*.js
 e2e/**/*.js.map
 app/**/*.js
 app/**/*.js.map
+cucumber.json
