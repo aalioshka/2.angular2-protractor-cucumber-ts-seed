@@ -10,3 +10,7 @@ e2e/**/*.js.map
 app/**/*.js
 app/**/*.js.map
 cucumber.json
+
+!gulpfile.js
+!systemjs.config.js
+!systemjs.config.extras.js
