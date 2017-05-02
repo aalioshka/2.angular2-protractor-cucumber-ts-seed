@@ -15,7 +15,7 @@ Older versions produce errors.
 
 Clone this repo into new project folder (e.g., `my-proj`).
 ```bash
-git clone  https://github.com/M2JS/1.angular2-protractor-cucumber-ts-seed.git  my-proj
+git clone  https://github.com/M2JS/2.angular2-protractor-cucumber-ts-seed.git  my-proj
 cd my-proj
 ```
 
